@@ -9,8 +9,8 @@ import {
 } from 'react-native';
 
 const SignInScreen = () => {
-  const [username, setUsername] = useState('Renaldy');
-  const [password, setPassword] = useState('12345');
+  const [username, setUsername] = useState('Joan');
+  const [password, setPassword] = useState('0000');
 
   const handleSignIn = () => {
     // Implement sign in functionality here
